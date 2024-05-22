@@ -1,0 +1,282 @@
+{
+    "ADM": {
+        "chat_gpt": "Archer-Daniels-Midland Company benefits from higher agricultural commodity prices, which are driven by inflation.",
+        "claude": "ADM is a major agricultural commodities processor that could see increased profits if inflation drives up food prices.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "BHP": {
+        "chat_gpt": "BHP Group is a major player in mining and commodities, which tend to rise in value with inflation.",
+        "claude": "BHP is a diversified mining company that produces commodities like copper, iron ore, and coal, which may appreciate in an inflationary environment.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "CVX": {
+        "chat_gpt": "Chevron Corporation benefits from rising oil prices, which are often correlated with inflation.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "DE": {
+        "chat_gpt": "Deere & Company benefits from rising agricultural commodity prices, which are influenced by inflation.",
+        "claude": "Deere manufactures agricultural and construction equipment. It could benefit from increased demand and pricing power as inflation drives up the cost of food and infrastructure projects.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "FCX": {
+        "chat_gpt": "Freeport-McMoRan Inc. is a major copper producer, and copper prices typically rise with inflation.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "FNV": {
+        "chat_gpt": "Franco-Nevada Corporation is a gold-focused royalty and streaming company, benefiting from rising gold prices.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nerdwallet.com/article/investing/commodity-stocks",
+                "title": "7 Best-Performing Commodity Stocks for May 2024 - NerdWallet",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "KO": {
+        "chat_gpt": "Coca-Cola has strong brand power and pricing ability, allowing it to pass on higher costs to consumers.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/sites/investor-hub/article/best-dividend-stocks-to-hedge-inflation/",
+                "title": "5 Best Dividend Stocks To Help Hedge Inflation",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "MO": {
+        "chat_gpt": "Altria Group has a monopolistic position in the tobacco industry, enabling it to maintain pricing power.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "NEM": {
+        "chat_gpt": "Newmont Corporation is a leading gold mining company, benefiting directly from higher gold prices.",
+        "claude": "As the world's largest gold mining company, Newmont could see increased demand for gold as investors seek a hedge against inflation.",
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.ca/ca/news/245311/our-top-commodity-stocks-for-2024.aspx",
+                "title": "Our Top Commodity Stocks for 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "NTR": {
+        "chat_gpt": "Nutrien Ltd. is a major player in agricultural inputs, benefiting from higher commodity prices.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.nerdwallet.com/article/investing/commodity-stocks",
+                "title": "7 Best-Performing Commodity Stocks for May 2024 - NerdWallet",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "PSA": {
+        "chat_gpt": "Public Storage is a REIT that benefits from rising real estate values and increased demand for storage.",
+        "claude": "As a self-storage REIT, Public Storage's property holdings can appreciate in an inflationary environment, and its short-term leases allow it to quickly raise rents.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "RGLD": {
+        "chat_gpt": "Royal Gold, Inc. acquires and manages precious metal royalties, benefiting from rising gold prices.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "SPG": {
+        "chat_gpt": "Simon Property Group is a leading real estate investment trust (REIT) that benefits from rising property values.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "TGT": {
+        "chat_gpt": "Target has strong pricing power and can pass on higher costs to consumers, maintaining profitability.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.cnbc.com/2023/12/29/companies-are-losing-their-pricing-power.html",
+                "title": "Companies losing pricing power after years of unbridled ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "WMT": {
+        "chat_gpt": "Walmart has significant pricing power and can pass on higher costs to consumers, maintaining its margins.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/how-to-invest/inflation-proof-investments/",
+                "title": "Best Inflation-Proof Investments for 2023",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "XOM": {
+        "chat_gpt": "ExxonMobil benefits from rising oil prices, which often accompany inflation.",
+        "claude": "As a major oil and gas company, Exxon Mobil stands to benefit from rising commodity prices driven by inflation.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "AAPL": {
+        "chat_gpt": null,
+        "claude": "Apple's strong brand loyalty and premium positioning give it pricing power to raise prices and maintain margins in an inflationary environment.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "AMT": {
+        "chat_gpt": null,
+        "claude": "As a real estate investment trust (REIT) that owns and operates cell towers, American Tower's property holdings and long-term lease agreements provide a hedge against inflation.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "AMZN": {
+        "chat_gpt": null,
+        "claude": "Amazon's e-commerce dominance and its ability to quickly pass on higher costs to consumers can help it weather inflation.",
+        "search_articles": [
+            {
+                "url": "https://recurvecap.com/insights/pricing-power-in-disruptive-companies",
+                "title": "Pricing Power in Disruptive Companies",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "GOOGL": {
+        "chat_gpt": null,
+        "claude": "Google's search and advertising dominance give it pricing power to increase ad rates in line with inflation.",
+        "search_articles": [
+            {
+                "url": "https://mywallst.com/blog/what-are-the-best-stocks-to-own-when-inflation-is-high/",
+                "title": "What Are The Best Stocks To Own When Inflation is High?",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "LMT": {
+        "chat_gpt": null,
+        "claude": "As a major defense contractor, Lockheed Martin could benefit from rising government military spending in an inflationary environment.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "MSFT": {
+        "chat_gpt": null,
+        "claude": "As a technology leader with a strong competitive position, Microsoft has pricing power for its software and cloud services, which can help it navigate an inflationary environment.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "NEE": {
+        "chat_gpt": null,
+        "claude": "As a regulated utility with a focus on renewable energy, NextEra has pricing power to raise rates with inflation and its long-term contracts provide stable cash flows.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "PG": {
+        "chat_gpt": null,
+        "claude": "As a consumer staples giant, P&G has pricing power to raise prices on its essential household goods in an inflationary environment, helping to maintain its profitability.",
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-inflation-stocks/",
+                "title": "10 Best Inflation Protection Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "PLD": {
+        "chat_gpt": null,
+        "claude": "Prologis is a REIT that owns and operates logistics facilities like warehouses. Its real estate holdings can provide a hedge against inflation, and it can raise rents in an inflationary environment.",
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/sites/investor-hub/article/best-dividend-stocks-to-hedge-inflation/",
+                "title": "5 Best Dividend Stocks To Help Hedge Inflation",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.marketwatch.com/story/inflation-is-raging-but-these-16-companies-have-pricing-power-11649940755",
+                "title": "Inflation is raging, but these 16 companies have pricing ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "V": {
+        "chat_gpt": null,
+        "claude": "As a payment network, Visa earns a percentage of transaction volumes, which could grow in dollar terms if inflation drives up prices, benefiting its fee income.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "WM": {
+        "chat_gpt": null,
+        "claude": "As a waste collection and disposal company, Waste Management provides an essential service and has pricing power to raise fees in line with inflation.",
+        "search_articles": [],
+        "tweets": []
+    },
+    "AZN": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-inflation-stocks/",
+                "title": "10 Best Inflation Protection Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "BRK.B": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://mywallst.com/blog/what-are-the-best-stocks-to-own-when-inflation-is-high/",
+                "title": "What Are The Best Stocks To Own When Inflation is High?",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/how-to-invest/inflation-proof-investments/",
+                "title": "Best Inflation-Proof Investments for 2023",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "CHD": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-inflation-stocks/",
+                "title": "10 Best Inflation Protection Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "COR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-inflation-stocks/",
+                "title": "10 Best Inflation Protection Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    }
+}
