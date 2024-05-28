@@ -278,5 +278,17 @@
             }
         ],
         "tweets": []
+    },
+    "AZO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": [
+            {
+                "uuid": "e8e813c9-e332-4cab-a6cb-79ade8831a9e",
+                "comment": "If our car breaks down, we need to get to work and will pay any price for autoparts."
+            }
+        ]
     }
 }
