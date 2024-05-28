@@ -2,7 +2,6 @@ symbol,sources
 ADM,"chat_gpt,claude"
 BHP,"chat_gpt,claude"
 CVX,chat_gpt
-DE,"chat_gpt,claude"
 FCX,chat_gpt
 FNV,"chat_gpt,google"
 KO,"chat_gpt,google"
@@ -12,7 +11,6 @@ NTR,"chat_gpt,google"
 PSA,"chat_gpt,claude,google"
 RGLD,chat_gpt
 SPG,chat_gpt
-TGT,"chat_gpt,google"
 WMT,"chat_gpt,google"
 XOM,"chat_gpt,claude"
 AAPL,claude
@@ -21,13 +19,12 @@ AMZN,"claude,google"
 GOOGL,"claude,google"
 LMT,claude
 MSFT,"claude,google"
-NEE,claude
 PG,"claude,google"
 PLD,"claude,google"
 V,"claude,google"
 WM,claude
-AZN,google
 BRK.B,google
 CHD,google
 COR,google
 MA,google
+AZO,experts
